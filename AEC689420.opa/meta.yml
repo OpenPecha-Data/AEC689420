@@ -1,0 +1,19 @@
+id: AEC689420
+title: 'The Lute of the Gandharvas: A Garland of Offerings of the Sixteen Vajra Goddesses'
+type: translation
+pechas:
+- I3F4E858A
+- I044D64E1
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:42:40.730408
+  last_modified_at: 2023-01-04 12:42:40.730416
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3F4E858A/A8F3: 23A8
+  I044D64E1/C6E2: 23A8
